@@ -8,3 +8,5 @@ console.log(nombre.toUpperCase());
 console.log(nombre.toLowerCase());
 /*Muestra por consola la posición de la cadena en la que se encuentra la letra o.*/
 nombre.indexOf("o");
+/*Muestra por consola la posición de la cadena en la que se encuentra la cadena “Hola”.*/
+nombre.indexOf("Hola");
