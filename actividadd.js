@@ -12,3 +12,5 @@ nombre.indexOf("o");
 nombre.indexOf("Hola");
 /*Reemplaza la cadena “Mundo” por la cadena “Youtube” y muestra el resultado.*/
 nombre.replace("Mundo","Youtube");
+/*Extrae la segunda parte de la cadena y muéstrala por consola.*/
+nombre.split(" ")[1]
