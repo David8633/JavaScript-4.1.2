@@ -18,3 +18,6 @@ nombre.split(" ")[1]
 nombre.startsWith("h");
 /*Comprueba si la cadena empieza por “H”.*/
 nombre.startsWith("H");
+/*Muestra Utilizando por TEMPLATE consola la STRINGS letra JAVASCRIPT*/
+let variable = "JAVASCRIPT";
+console.log(`String : ${variable}`)
