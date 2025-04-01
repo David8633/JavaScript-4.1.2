@@ -10,3 +10,5 @@ console.log(nombre.toLowerCase());
 nombre.indexOf("o");
 /*Muestra por consola la posición de la cadena en la que se encuentra la cadena “Hola”.*/
 nombre.indexOf("Hola");
+/*Reemplaza la cadena “Mundo” por la cadena “Youtube” y muestra el resultado.*/
+nombre.replace("Mundo","Youtube");
