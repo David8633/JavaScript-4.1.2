@@ -16,3 +16,5 @@ nombre.replace("Mundo","Youtube");
 nombre.split(" ")[1]
 /*Comprueba si la cadena empieza por “h”.*/
 nombre.startsWith("h");
+/*Comprueba si la cadena empieza por “H”.*/
+nombre.startsWith("H");
