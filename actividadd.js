@@ -24,3 +24,11 @@ console.log(`String : ${variable}`)
  /*“r” declara 10 veces.*/
  let i = 0;
  while(i<10){console.log("r");i++;}
+/*3 variables con tu nombre, apellidos y edad y muéstralas por consola introduciéndolas dentro de una cadena.*/
+ let name1 = "David";
+ let apellidos = "Martinez Avila";
+ let edad = 19;
+ let e =0;
+ while(e<3){
+ console.log(`Hola , soy ${name1},${apellidos}. y tengo ${edad}`);
+e++;};
