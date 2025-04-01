@@ -4,3 +4,5 @@ let nombre = "Hola mundo";
 console.log(nombre.length);
 /*Muestra por consola la cadena con todos sus caracteres en mayúsculas.*/
 console.log(nombre.toUpperCase());
+/*Muestra por consola la cadena con todos sus caracteres en minúsculas.*/
+console.log(nombre.toLowerCase());
