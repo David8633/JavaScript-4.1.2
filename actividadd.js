@@ -21,3 +21,6 @@ nombre.startsWith("H");
 /*Muestra Utilizando por TEMPLATE consola la STRINGS letra JAVASCRIPT*/
 let variable = "JAVASCRIPT";
 console.log(`String : ${variable}`)
+ /*“r” declara 10 veces.*/
+ let i = 0;
+ while(i<10){console.log("r");i++;}
