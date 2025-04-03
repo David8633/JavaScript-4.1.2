@@ -14,6 +14,7 @@ nombre.indexOf("Hola");
 nombre.replace("Mundo","Youtube");
 /*Extrae la segunda parte de la cadena y muéstrala por consola.*/
 nombre.split(" ")[1]
+/*console.log(cadena.substring(cadena.indexof("Mundo")))*/
 /*Comprueba si la cadena empieza por “h”.*/
 nombre.startsWith("h");
 /*Comprueba si la cadena empieza por “H”.*/
